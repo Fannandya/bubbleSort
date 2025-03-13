@@ -68,3 +68,12 @@ void display(){
     cout << endl;
     cout << endl;
 }
+
+int main(){
+    input ();
+
+    bubbleSortArray();
+    display();
+    system();
+    return 0;
+}
